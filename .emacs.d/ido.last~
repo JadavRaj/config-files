@@ -1,0 +1,88 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/raj/Documents/onedrive/AIIE/org-files/2026/odd-2026/" . "work_diary/")
+ ("/home/raj/Documents/onedrive/AIIE/org-files/2026/" . "odd-2026/")
+ ("/home/raj/Documents/onedrive/AIIE/org-files/" . "2026/")
+ ("/home/raj/Documents/onedrive/AIIE/General/ERP/" . "odd_2026/")
+ ("/home/raj/Documents/onedrive/AIIE/General/" . "ERP/")
+ ("/home/raj/Documents/onedrive/AIIE/AU_FEST/odd_2026/semester_3/eesps/lecture_notes/" . "unit-1/")
+ ("/home/raj/Documents/onedrive/AIIE/AU_FEST/odd_2026/semester_3/eesps/" . "lecture_notes/")
+ ("/home/raj/Documents/onedrive/AIIE/AU_FEST/odd_2026/semester_3/" . "eesps/")
+ ("/home/raj/Documents/onedrive/AIIE/AU_FEST/odd_2026/" . "semester_3/")
+ ("/home/raj/Documents/onedrive/AIIE/AU_FEST/" . "odd_2026/")
+ ("/home/raj/Documents/onedrive/AIIE/" . "org-files/")
+ ("/home/raj/Documents/onedrive/" . "AIIE/")
+ ("/home/raj/Documents/" . "onedrive/")
+ ("/home/raj/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/raj/.emacs.d/"
+ "/home/raj/.emacs.d.bak/"
+ "/home/raj/Documents/onedrive/AIIE/org-files/2026/odd-2026/"
+ "/home/raj/Documents/onedrive/AIIE/org-files/2026/odd-2026/work_diary/"
+ "/home/raj/"
+ "/home/raj/Documents/onedrive/AIIE/General/ERP/odd_2026/"
+ "/home/raj/Documents/onedrive/AIIE/General/work_diary/"
+ "/home/raj/Documents/onedrive/AIIE/AU_FEST/odd_2026/semester_3/eesps/lecture_notes/unit-1/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "init.el"
+ "post-init.el"
+ "activities_27.org"
+ "diary_2026.org"
+ ".bashrc"
+ "teaching_scheme.org"
+ "unit-1.tex"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/raj/.emacs.d/" (27262 60971 484763 385000) "ido.last" "init.el" "network-security.data" "places" "history" "recentf" "ido.last~" "var/" "eln-cache/" "elpa/" "auto-save-list/" "init.el~" "../" "./")
+
+ ("/home/raj/.emacs.d.bak/" (27257 38788 503688 346000) "custom.elc" "post-init.el" "post-init.el~" "custom.el" "var/" "pre-early-init.el" "autosave/" "elpa/" "init.el" "early-init.el" "README.md" ".gitignore" ".github/" ".LICENSE" ".git/" "../" "./")
+
+ ("/home/raj/Documents/onedrive/AIIE/org-files/2026/odd-2026/work_diary/" (27262 53908 548107 734000) "diary_2026.org" "../" "./")
+
+ ("/home/raj/Documents/onedrive/AIIE/org-files/2026/odd-2026/" (27262 54004 13529 333000) "erp/" "activities_27.org" "course-completion/" "work_diary/" "../" "./")
+
+ ("/home/raj/Documents/onedrive/AIIE/org-files/2026/" (27262 53306 727580 55000) "odd-2026/" "../" "./")
+
+ ("/home/raj/Documents/onedrive/AIIE/org-files/" (27262 53238 397605 746000) "2026/" "../" "./")
+
+ ("/home/raj/Documents/onedrive/AIIE/" (27262 53166 410364 776000) "org-files/" "consultations.pdf" "receipt-3.pdf" "paper/" "Winter_2021/" "even_2021_22/" "cpp/" "Winter_2020/" "Summer_2021/" "Winter_2019/" "Winter_2018/" "Summer_2020/" "Summer_2018/" "Summer_2019/" "Research_paper_review/" "SSIP_2.0/" "Research_Proposal/" "Odd_2023/" "Odd_2022/" "Odd_2021/" "NIT/" "Mentor/" "MTech/" "AU_FEST/" "GET/" "MSME/" "Java/" "General/" "Internship_2022/" "Insurance_Claim/" "Industrial_Visit/" "Induction_Program_2019/" "IITRAM_Review_Paper/" "HOD_incharge/" "GTU_Viva/" "Even_2023/" "Alternative_Oil_Paper/" "Even_2024/" "Aspire_2024/" "BTech_EE/" "E_mobility/" "Alumni_Association/" "Energy_Engg/" "phd_thesis_1.pdf" "Even_2022/" "resume_raj.pdf" "Satyarth_Prakash.pdf" "dreams_of_21st.docx" "Raj.jpg" "IDA_200_User_Manual.pdf" "IMG_20190219_204415.jpg" "IMG-20171028-WA0000.jpg" "Hypothecation.pdf" ".bashrc" "GJAHD13942900000010060_new.pdf" "../" "./")
+
+ ("/home/raj/Documents/onedrive/AIIE/General/ERP/odd_2026/" (27245 29804 0 0) "timetable-change.org" "email-erp-setup.pdf" "enrollment.org" "enrollment_files/" "teaching_scheme.org" "First year calendar FEST & FOS.pdf" "2 to 4 year Calendar FEST & FOS.pdf" "erp.org" "Course Code Allocation – ADC-01 – Regarding.pdf" "COE - Course Code Allocation.pdf" "../" "./")
+
+ ("/home/raj/Documents/onedrive/AIIE/General/ERP/" (27229 43512 0 0) "enrollment_files_Dec_2025_sem_4_6/" "enroll_files_Dec_2025_sem_4_6/" "enroll_files_Dec_2025_sem_4_6.zip" "CSE_Batches _ 5th sem_Elective Courses Preference Form- Semester V(1-230)_3_Jul_25.xlsx" "Office Order - Review of ERP LMS & Different Portals of the AU.pdf" "Scheme and Credit Structure.xlsx" "2025 - D2D - Data.xlsx" "odd_2026/" "2025/" "../" "./")
+
+ ("/home/raj/Documents/onedrive/AIIE/AU_FEST/odd_2026/semester_3/eesps/lecture_notes/unit-1/" (27259 18875 772754 763000) "fig/" "auto/" "unit-1.pdf" "unit-1.snm" "unit-1.toc" "unit-1.nav" "unit-1.out" "unit-1.aux" "unit-1.log" "Unit_2.tex" "unit-1.tex" "unit-1.org" "../" "./")
+
+ ("/home/raj/" (27261 47328 663312 86000) ".emacs.d/" ".emacs.d.bak/" "org/" ".waterfox/" ".bash_history-46097.tmp" "Projects/" "wallpaper/" ".gnupg/" "nohup.out" ".emacs_bak" "polybar.log" ".Xresources_new.save" ".bash_history-70212.tmp" ".Xresources" ".Xresources_new" ".python_history" ".urxvt/" "Arduino/" ".arduino15/" ".arduinoIDE/" ".pki/" ".fehbg" ".xintirc" "i3blocks-contrib/" ".mozilla/" ".thunderbird/" "firewall" ".profile" ".bash_history" ".var/" "Videos/" "Pictures/" "Music/" "Documents/" "Public/" "Templates/" "Downloads/" "Desktop/" ".dbus/" ".local/" ".Xauthority" ".config/" ".cache/" ".bashrc" ".bash_profile" ".bash_logout" "../" "./")
+
+ ("/home/raj/Documents/onedrive/AIIE/General/work_diary/" (27229 44198 137519 733000) "diary_2026.org" "../" "./")
+
+ ("/home/raj/Documents/onedrive/AIIE/General/" (27229 44113 0 0) "work_diary/" "yourDOST/" "thesis/" "student_feedback/" "research_talk_AU_Jan24/" "circulars/" "Tax/" "Solar_rooftop/" "Research_paper/" "Research_Methodology/" "Post_Diploma_Degree_Course/" "PhD_supervisor/" "PPF/" "PMS/" "National_mission_mentor/" "NPTEL/" "MCQ_Exam/" "Linux/" "Lab_development/" "LOR/" "JEE_Verification_23/" "J2_RAWHF/" "IITRAM_workshop/" "IPR_Presentation/" "IITRAM_Presentation/" "IEEE_Paper_Review/" "Health_Insurance/" "HR/" "Gujcost/" "GTU_FDP_Design_Engg_2023/" "GTU_Examination_comittee/" "GTU/" "FDP/" "GETCO_workshop_April_19/" "Attendance/" "Energy_Audit/" "ERP/" "DPC/" "Account/" "Atal_FDP_21/" "Admin/" "100_point_activity/" "IEEE_membership.pdf" "UHV_Syllabus for AIIE_Version_1.0.docx" "examdoc.pdf" "UFM_Cases_midsem_2024.xlsx" "Stationary Requisition Form.xlsx" "IEEE_membership_new.pdf" "Load Adjustment.xlsx" "Invitee_Database_GEF.xlsx" "HOD_0921.xlsx" "FileRequisitionForm.pdf" "FileRequisitionForm.ods" "Adani_logo_Original.jpg" "Adani_logo_Reverse.jpg" "Adani_logo_Purple.jpg" "Adani_logo_Black.jpg" "Adani_logo.pdf" "AIIE_presentation.pptx" "Adani Brand Architechture 2018.pdf" "Adani_logo.jpg" "Academic Audit ELECTRICAL Sessions and Publications 2022.xlsx" "AIIE-Proposal.xlsx" "AIER Contact Details - 11th July 2019.pdf" "../" "./")
+
+ ("/home/raj/Documents/onedrive/AIIE/AU_FEST/odd_2026/semester_3/eesps/lecture_notes/" (27251 7351 448563 338000) "unit-1/" "NFPA 70E-2018.pdf" "mohammad-modarres-risk-analysis-in-engineering-preview.pdf" "C-ray-asfahl-industrial-safety-and-health-management-6th-ed.pdf" "John-cadick-electrical-safety-handbook.pdf" "IEC_61508_and_Functional_Safety-2022.pdf" "Introduction_to_Health_and_Safety_at_Work_Phil_Hughes.pdf" "../" "./")
+
+ ("/home/raj/Documents/onedrive/AIIE/AU_FEST/odd_2026/semester_3/eesps/" (27249 54900 0 0) "course_completion.org" "course-completion.org" "lecture_notes/" "course_file/" "../" "./")
+
+ ("/home/raj/Documents/onedrive/AIIE/AU_FEST/odd_2026/semester_3/" (27229 47535 0 0) "eesps/" "../" "./")
+
+ ("/home/raj/Documents/onedrive/AIIE/AU_FEST/odd_2026/" (27241 39271 0 0) "attendance/" "First year calendar FEST & FOS.pdf" "2 to 4 year Calendar FEST & FOS.pdf" "timetable/" "semester_3/" "semester_1/" "../" "./")
+
+ ("/home/raj/Documents/onedrive/AIIE/AU_FEST/" (27226 16122 0 0) "odd_2026/" "Odd_2025/" "Odd_2023/" "Syllabus/" "Odd_2024/" "Odd_2022/" "Even_2026/" "Even_2023/" "Even_2025/" "Even_2024/" "../" "./")
+
+ ("/home/raj/Documents/onedrive/" (27165 23677 123477 646000) "AIIE/" "../" "./")
+
+ ("/home/raj/Documents/" (27251 3551 756703 194000) "health-insurance/" "jaina-passport/" "onedrive/" "Thesis/" ".emacs.d/" ".config/" "config/" "hyprland.lua" "adani-fonts/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

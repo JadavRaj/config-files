@@ -1,0 +1,97 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/mnt/arch/home/" . "raj/")
+ ("/mnt/arch/" . "home/")
+ ("/mnt/" . "arch/")
+ ("/" . "mnt/")
+ ("/home/raj/.config/" . "kitty/")
+ ("/home/raj/.config/polybar/" . "scripts/")
+ ("/home/raj/Documents/onedrive/AIIE/AU_FEST/Even_2026/semester_2/python_programming/Lecture_notes/" . "Module_1/")
+ ("/home/raj/Documents/onedrive/AIIE/AU_FEST/Even_2026/semester_2/python_programming/" . "Lecture_notes/")
+ ("/home/raj/Documents/onedrive/AIIE/AU_FEST/Even_2026/semester_2/" . "python_programming/")
+ ("/home/raj/Documents/onedrive/AIIE/AU_FEST/Even_2026/" . "semester_2/")
+ ("/home/raj/Documents/onedrive/AIIE/AU_FEST/" . "Even_2026/")
+ ("/home/raj/Documents/onedrive/AIIE/" . "AU_FEST/")
+ ("/home/raj/Documents/onedrive/" . "AIIE/")
+ ("/home/raj/Documents/" . "onedrive/")
+ ("/home/" . "raj/")
+ ("/home/raj/" . ".config/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/mnt/arch/home/raj/"
+ "/home/raj/.config/kitty/"
+ "/home/raj/.emacs.d/"
+ "/home/raj/.config/polybar/scripts/"
+ "/home/raj/Downloads/"
+ "/home/raj/Documents/onedrive/AIIE/AU_FEST/Even_2026/semester_2/python_programming/Lecture_notes/Module_1/"
+ "/home/raj/Documents/config/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ ".emacs"
+ "kitty.conf"
+ "post-init.el"
+ "pre-early-init.el"
+ "battery.pl"
+ "test.org"
+ "test.pdf"
+ "test.tex"
+ "Module_1.tex"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/mnt/arch/home/raj/" (27179 42256 870033 780000) ".config/" "Public/" "Music/" "Templates/" "Projects/" "Pictures/" "yay/" "./" "../" "Downloads/" ".bash_history" ".bash_logout" ".emacs" ".local/" "Videos/" "Documents/" ".bash_profile" ".viminfo" ".bashrc" "Desktop/" ".emacs.d/" ".cache/")
+
+ ("/mnt/arch/home/" (27175 63545 329501 884000) "./" "../" "raj/")
+
+ ("/mnt/arch/" (27179 36880 73034 419000) "efi/" "mnt/" "var/" "./" "../" "boot/" "root/" "lost+found/" "opt/" "lib64/" "run/" "sbin/" "lib/" "home/" "etc/" "tmp/" "usr/" "bin/" "proc/" "sys/" "dev/" "srv/")
+
+ ("/mnt/" (27146 46046 966268 972000) "usb/" "arch/" "../" "./")
+
+ ("/home/raj/.config/kitty/" (27179 61140 755171 746000) "kitty.conf" "../" "./")
+
+ ("/home/raj/.emacs.d/" (27178 23001 563781 513000) "post-init.el" "post-init.el~" "custom.el" "var/" "pre-early-init.el" "autosave/" "elpa/" "init.el" "early-init.el" "README.md" ".gitignore" ".github/" ".LICENSE" ".git/" "../" "./")
+
+ ("/home/raj/" (27179 61155 939193 963000) ".gnupg/" "nohup.out" ".emacs_bak" ".emacs.d/" "polybar.log" ".Xresources_new.save" ".bash_history-70212.tmp" ".Xresources" ".Xresources_new" ".python_history" ".urxvt/" "Arduino/" ".arduino15/" ".arduinoIDE/" ".pki/" ".fehbg" ".xintirc" "i3blocks-contrib/" ".mozilla/" ".thunderbird/" "firewall" ".profile" ".bash_history" ".var/" "Videos/" "Pictures/" "Music/" "Documents/" "Public/" "Templates/" "Downloads/" "Desktop/" ".dbus/" ".local/" ".Xauthority" ".config/" ".cache/" ".bashrc" ".bash_profile" ".bash_logout" "../" "./")
+
+ ("/home/raj/.config/" (27178 28426 748039 152000) "pavucontrol.ini" "polybar/" "baloofileinformationrc" "rclone/" "onedrive/" "rofi/" "procps/" "set_brightness.sh" "arduino-ide/" "Arduino IDE/" "i3blocks/" "filetypesrc" "mimeapps.list" "geany/" "i3/" "gwenviewrc" "hypr/" "okularrc" "okularpartrc" "kiorc" "kwalletrc" "libreoffice/" "kmousetool_strokes.txt" "kfontinstuirc" "fontgroups.xml" "dconf/" "gtk-3.0/" "dolphinrc" "plasma-workspace/" "autostart/" "QtProject.conf" "kwinrulesrc" "qtvirtualkeyboard/" "kcmfonts" "kcminputrc" "kde.org/" "plasmanotifyrc" "systemmonitorrc" "konsolesshconfig" "mozilla/" "konsolerc" "ksmserverrc" "session/" "fontconfig/" "bluedevilglobalrc" "kactivitymanagerd-statsrc" "kded5rc" "kactivitymanagerdrc" "kitty/" "spectaclerc" "plasmashellrc" "waybar/" "pdfarranger/" "plasma-org.kde.plasma.desktop-appletsrc" "kconf_updaterc" "powermanagementprofilesrc" "pulse/" "plasma-welcomerc" "user-dirs.locale" "user-dirs.dirs" "baloofilerc" "ktimezonedrc" "kglobalshortcutsrc" "kwinoutputconfig.json" "kwinrc" "plasma-localerc" "kdeglobals" "Trolltech.conf" "gtkrc-2.0" "gtkrc" "kdedefaults/" "rc/" "../" "./")
+
+ ("/home/raj/.config/hypr/" (27178 23204 843597 826000) "hyprland_bak.conf" "hyprland.lua" "../" "./")
+
+ ("/home/raj/.config/polybar/scripts/" (27171 51068 622011 614000) "set_brightness.sh" "battery.pl" "battery.sh" "../" "./")
+
+ ("/home/raj/.config/polybar/" (27170 42568 448080 824000) "close_win.sh" "scripts/" "bak_config.ini" "launch.sh" "config.ini" "../" "./")
+
+ ("/home/raj/Documents/onedrive/AIIE/AU_FEST/Even_2026/semester_2/python_programming/Lecture_notes/Module_1/" (27171 57377 149485 591000) "_2ACA631494E1B4C398875D8235F25892.data.minted" "auto/" "_minted-Module_1/" "Figure/" "output.py~" "output.py" "keyword.py~" "keyword.py" "global2.py~" "global2.py" "global1.py~" "global1.py" "global.py~" "default.py~" "default.py" "global.py" "Module_1.vrb" "Module_1.tex~" "Module_1.toc" "Module_1.tex" "Module_1.pdf" "Module_1.snm" "Module_1.pyg" "Module_1.out" "Module_1.nav" "Module_1.log" "Module_1.dvi" "Module_1.aux" "#Module_1.tex#" "../" "./")
+
+ ("/home/raj/Downloads/" (27171 58632 271599 937000) "test.pdf" "test.aux" "test.log" "test.tex" "Official Invitation for Students Cybersecurity Hackathon 2026.pdf" "WhatsApp short msg for students.txt" "Students_Problem statements_10_Category_2.pdf" "Cyber security Hackathon.rar" "arduino-ide_2.3.8_Linux_64bit.AppImage" "fedora/" "JEST-D-26-02446.pdf" "../" "./")
+
+ ("/home/raj/Documents/onedrive/AIIE/AU_FEST/Even_2026/semester_2/python_programming/Lecture_notes/" (26989 42897 0 0) "Module_5/" "Module_4/" "Module_3/" "Module_2/" "Module_1/" "Python_Programming_Harsh.pdf" "Module I Introduction.pptx" "../" "./")
+
+ ("/home/raj/Documents/onedrive/AIIE/AU_FEST/Even_2026/semester_2/python_programming/" (26989 42804 0 0) "student_feedback/" "python_programming_even_2026/" "mark-submission/" "practice_codes/" "lecture_codes/" "assignment/" "Syllabus/" "Lecture_notes/" "Lab/" "course_completion.xlsx" "../" "./")
+
+ ("/home/raj/Documents/onedrive/AIIE/AU_FEST/Even_2026/semester_2/" (26989 42738 0 0) "time-table/" "python_programming/" "load-adjustment-rj-27-280126.pdf" "AU_Load_Adjustment_27-280126.docx" "AU_Load_Adjustment_Form.docx" "../" "./")
+
+ ("/home/raj/Documents/onedrive/AIIE/AU_FEST/Even_2026/" (26989 42718 0 0) "paper_setting/" "semester_2/" "online-evaluation/" "cca-reassessment/" "../" "./")
+
+ ("/home/raj/Documents/onedrive/AIIE/AU_FEST/" (25407 44515 0 0) "Odd_2025/" "Odd_2023/" "Syllabus/" "Odd_2024/" "Odd_2022/" "Even_2026/" "Even_2023/" "Even_2025/" "Even_2024/" "../" "./")
+
+ ("/home/raj/Documents/onedrive/AIIE/" (27166 39761 710446 110000) "paper/" "Winter_2021/" "even_2021_22/" "cpp/" "Winter_2020/" "Summer_2021/" "Winter_2019/" "Winter_2018/" "Summer_2020/" "Summer_2018/" "Summer_2019/" "Research_paper_review/" "SSIP_2.0/" "Research_Proposal/" "Odd_2023/" "Odd_2022/" "Odd_2021/" "NIT/" "Mentor/" "MTech/" "AU_FEST/" "GET/" "MSME/" "Java/" "General/" "Internship_2022/" "Insurance_Claim/" "Industrial_Visit/" "Induction_Program_2019/" "IITRAM_Review_Paper/" "HOD_incharge/" "GTU_Viva/" "Even_2023/" "Alternative_Oil_Paper/" "Even_2024/" "Aspire_2024/" "BTech_EE/" "E_mobility/" "Alumni_Association/" "Energy_Engg/" "phd_thesis_1.pdf" "Even_2022/" "resume_raj.pdf" "Satyarth_Prakash.pdf" "dreams_of_21st.docx" "Raj.jpg" "IDA_200_User_Manual.pdf" "IMG_20190219_204415.jpg" "IMG-20171028-WA0000.jpg" "Hypothecation.pdf" ".bashrc" "GJAHD13942900000010060_new.pdf" "../" "./")
+
+ ("/home/raj/Documents/onedrive/" (27165 23677 123477 646000) "AIIE/" "../" "./")
+
+ ("/home/raj/Documents/config/" (23408 10893 0 0) "config.zip" "Packages.aur" "Dropbox.zip" ".bash_profile" ".xinitrc" ".emacs" ".octaverc" ".xserverrc" ".bashrc" "Package" ".Xresources" "config/" "../" "./")
+
+ ("/home/raj/Documents/" (27165 24542 512241 700000) "onedrive/" "Thesis/" ".emacs.d/" ".config/" "config/" "hyprland.lua" "adani-fonts/" "../" "./")
+
+ ("/home/" (27145 30895 709768 377000) "raj/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

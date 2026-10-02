@@ -1,0 +1,50 @@
+;;; -*- coding: utf-8; mode: lisp-data -*-
+(("/home/raj/.config/hypr/"
+  (dired-filename . "/home/raj/.config/hypr/hypridle.conf"))
+ ("/home/raj/Documents/onedrive/AIIE/AU_FEST/Even_2026/semester_2/python_programming/practice_codes/"
+  (dired-filename
+   . "/home/raj/Documents/onedrive/AIIE/AU_FEST/Even_2026/semester_2/python_programming/practice_codes/prog_1_mod_1.ipynb"))
+ ("/home/raj/Documents/onedrive/AIIE/AU_FEST/Even_2026/semester_2/python_programming/Lab/"
+  (dired-filename
+   . "/home/raj/Documents/onedrive/AIIE/AU_FEST/Even_2026/semester_2/python_programming/Lab/students_to_share"))
+ ("/home/raj/Documents/onedrive/AIIE/AU_FEST/Even_2026/semester_2/python_programming/lecture_codes/"
+  (dired-filename
+   . "/home/raj/Documents/onedrive/AIIE/AU_FEST/Even_2026/semester_2/python_programming/lecture_codes/pandas.ipynb"))
+ ("/home/raj/Documents/onedrive/AIIE/AU_FEST/Even_2026/semester_2/"
+  (dired-filename
+   . "/home/raj/Documents/onedrive/AIIE/AU_FEST/Even_2026/semester_2/python_programming"))
+ ("/home/raj/Documents/onedrive/AIIE/AU_FEST/Even_2026/"
+  (dired-filename
+   . "/home/raj/Documents/onedrive/AIIE/AU_FEST/Even_2026/cca-reassessment"))
+ ("/home/raj/Documents/onedrive/AIIE/AU_FEST/"
+  (dired-filename . "/home/raj/Documents/onedrive/AIIE/AU_FEST/Even_2023"))
+ ("/home/raj/Documents/onedrive/AIIE/"
+  (dired-filename . "/home/raj/Documents/onedrive/AIIE/AU_FEST"))
+ ("/home/raj/Documents/onedrive/"
+  (dired-filename . "/home/raj/Documents/onedrive/AIIE"))
+ ("/home/raj/" (dired-filename . "/home/raj/.arduino15"))
+ ("/home/raj/Downloads/"
+  (dired-filename . "/home/raj/Downloads/2nd Convocation - Committee.pdf"))
+ ("/home/raj/.cache/" (dired-filename . "/home/raj/.cache/KDE"))
+ ("/home/" (dired-filename . "/home/raj"))
+ ("/home/raj/.config/" (dired-filename . "/home/raj/.config/Arduino IDE"))
+ ("/home/raj/.config/i3/"
+  (dired-filename . "/home/raj/.config/i3/DarkestHour.jpg"))
+ ("/home/raj/.config/polybar/scripts/"
+  (dired-filename . "/home/raj/.config/polybar/scripts/battery.pl"))
+ ("/home/raj/Documents/" (dired-filename . "/home/raj/Documents/config"))
+ ("/home/raj/Documents/config/"
+  (dired-filename . "/home/raj/Documents/config/.emacs"))
+ ("/home/raj/.emacs.d/" (dired-filename . "/home/raj/.emacs.d/post-init.el"))
+ ("/home/raj/Documents/onedrive/AIIE/AU_FEST/Even_2023/"
+  (dired-filename
+   . "/home/raj/Documents/onedrive/AIIE/AU_FEST/Even_2023/Human_Value"))
+ ("/home/raj/Documents/onedrive/AIIE/AU_FEST/Even_2023/Human_Value/"
+  (dired-filename
+   . "/home/raj/Documents/onedrive/AIIE/AU_FEST/Even_2023/Human_Value/Attendance"))
+ ("/home/raj/Documents/onedrive/AIIE/General/HR/PMS_2027/induction_program_27_31_July_2026/coordination.org"
+  . 11089)
+ ("/home/raj/Documents/.config/" (dired-filename . "/home/raj/Documents"))
+ ("/home/raj/Documents/.emacs.d/" (dired-filename . "/home/raj/Documents"))
+ ("/home/raj/.config/i3/config" . 2190)
+ ("/home/raj/.config/polybar/close_win.sh" . 307))
