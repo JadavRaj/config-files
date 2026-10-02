@@ -1,0 +1,25 @@
+{
+	"windowstate": {
+		"isFullScreen": false,
+		"isMaximized": false,
+		"width": 680,
+		"height": 674,
+		"x": 0,
+		"y": 0,
+		"frame": true,
+		"screenLayout": "0:0:1280:720",
+		"backgroundColor": "rgb(255, 255, 255)"
+	},
+	"workspaces": [
+		{
+			"x": 0,
+			"y": 0,
+			"width": 680,
+			"height": 674,
+			"isMaximized": false,
+			"isFullScreen": false,
+			"file": "/home/raj/Arduino/sketch_aug21a",
+			"time": 1787318416010
+		}
+	]
+}

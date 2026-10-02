@@ -1,0 +1,377 @@
+00:00:00.000413 main     VirtualBox XPCOM Server 7.2.8_Gentoo r173730 linux.amd64 (Aug 15 2026 21:49:58) release log
+00:00:00.000417 main     Log opened 2026-09-05T16:55:27.961684000Z
+00:00:00.000418 main     Build Type: release
+00:00:00.000421 main     OS Product: Linux
+00:00:00.000422 main     OS Release: 6.18.43-gentoo-dist-bin
+00:00:00.000423 main     OS Version: #1 SMP PREEMPT_DYNAMIC Thu Aug  6 19:07:48 -00 2026
+00:00:00.000469 main     DMI Product Name: 20UES3Q407
+00:00:00.000482 main     DMI Product Version: ThinkPad T14 Gen 1
+00:00:00.000491 main     Firmware type: UEFI
+00:00:00.000929 main     Secure Boot: Disabled
+00:00:00.001003 main     Host RAM: 15192MB (14.8GB) total, 11172MB (10.9GB) available
+00:00:00.001006 main     Executable: /usr/lib64/virtualbox/VBoxSVC
+00:00:00.001007 main     Process ID: 16591
+00:00:00.001007 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.006856 main     IPC socket path: /tmp/.vbox-raj-ipc/ipcd
+00:00:00.015247 DCon01   VirtualBox: object creation starts
+00:00:00.015469 DCon01   Home directory: '/home/raj/.config/VirtualBox'
+00:00:00.015711 DCon01   Loading settings file "/home/raj/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.019168 DCon01   USB: Unknown USB device detected (idVendor: 0x06cb, idProduct: 0x00bd)
+00:00:00.019211 DCon01   USB: Unknown USB device detected (idVendor: 0x8087, idProduct: 0x0029)
+00:00:00.019373 DCon01   Successfully initialised host USB using sysfs
+00:00:00.039082 DCon01   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp3s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.041523 DCon01   HostDnsMonitor: initializing
+00:00:00.042124 DCon01   NAT: resolv.conf: nameserver 10.130.98.158
+00:00:00.042139 DCon01   NAT: resolv.conf: nameserver 2409:40c1:4:f20d::31
+00:00:00.042175 DCon01   HostDnsMonitor: updating information
+00:00:00.042201 DCon01   HostDnsMonitor: old information
+00:00:00.042205 DCon01     no server entries
+00:00:00.042210 DCon01     no domain set
+00:00:00.042217 DCon01     no search string entries
+00:00:00.042226 DCon01   HostDnsMonitor: new information
+00:00:00.042229 DCon01     server 1: 10.130.98.158
+00:00:00.042233 DCon01     server 2: 2409:40c1:4:f20d::31
+00:00:00.042241 DCon01     no domain set
+00:00:00.042248 DCon01     no search string entries
+00:00:00.045776 DCon01   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:00:00.046050 DCon01   VD: VDInit finished with VINF_SUCCESS
+00:00:00.048108 DCon01   VirtualBox: object created
+00:00:07.749799 DCon04   Saving settings file "/home/raj/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:07.754020 DCon04   Finished saving settings file "/home/raj/.config/VirtualBox/VirtualBox.xml"
+00:03:04.022064 DCon09   Unattended: RTVfsQueryPathInfo(, '\OS2IMAGE/DISK_0/OS2LDR' (from OS2SE20.SRC),) -> VERR_PATH_NOT_FOUND, fMode=0x0
+00:03:04.036854 DCon11   Saving settings file "/home/raj/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:03:04.044180 DCon11   Finished saving settings file "/home/raj/.config/VirtualBox/VirtualBox.xml"
+00:03:04.050928 DCon11   Saving settings file "/home/raj/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:03:04.055166 DCon11   Finished saving settings file "/home/raj/.config/VirtualBox/VirtualBox.xml"
+00:03:48.575821 createBase Saving settings file "/home/raj/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:03:48.579905 createBase Finished saving settings file "/home/raj/.config/VirtualBox/VirtualBox.xml"
+00:03:48.593840 DCon13   Platform architecture set to 'x86'
+00:03:48.594940 DCon13   Platform architecture set to 'x86'
+00:03:48.594973 DCon13   Platform architecture set to 'x86'
+00:03:48.596697 DCon13   Platform architecture set to 'x86'
+00:03:48.600012 DCon13   Saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox" with version "1.19-linux"
+00:03:48.614469 DCon13   Finished saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox"
+00:03:48.614717 DCon13   Saving settings file "/home/raj/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:03:48.617450 DCon13   Finished saving settings file "/home/raj/.config/VirtualBox/VirtualBox.xml"
+00:03:48.620123 DCon13   Platform architecture set to 'x86'
+00:03:48.625548 DCon09   Saving settings file "/home/raj/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:03:48.629455 DCon09   Finished saving settings file "/home/raj/.config/VirtualBox/VirtualBox.xml"
+00:03:48.630465 DCon13   Saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox" with version "1.19-linux"
+00:03:48.633520 DCon13   Finished saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox"
+00:03:48.636910 DCon13   Saving settings file "/home/raj/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:03:48.639804 DCon13   Finished saving settings file "/home/raj/.config/VirtualBox/VirtualBox.xml"
+00:03:48.640669 DCon13   Saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox" with version "1.19-linux"
+00:03:48.645161 DCon13   Finished saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox"
+00:03:48.646694 DCon13   Saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox" with version "1.19-linux"
+00:03:48.649948 DCon13   Finished saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox"
+00:03:48.816999 DCon16   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:03:48.819777 DCon16   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:03:53.077078 DCon13   Launched VM: 371072352 pid: 17416 (0x4408) frontend: GUI/Qt name: Nixos
+00:03:53.142768 DCon14   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:03:53.145899 DCon14   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:03:53.556422 DCon16   Saving settings file "/home/raj/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:03:53.561077 DCon16   Finished saving settings file "/home/raj/.config/VirtualBox/VirtualBox.xml"
+00:03:53.571448 DCon09   Platform architecture set to 'x86'
+00:03:53.597837 DCon14   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:03:53.600270 DCon19   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:03:54.496992 DCon11   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:03:54.546394 DCon11   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp3s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:03:54.595260 DCon17   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:03:54.598918 DCon22   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:03:54.600739 DCon22   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:03:54.651465 DCon22   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:03:54.866289 DCon22   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:03:54.868334 DCon22   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:03:54.870248 DCon22   HostDnsMonitorProxy::GetDomainName: no domain set
+00:03:54.870411 DCon22   HostDnsMonitorProxy::GetNameServers:
+00:03:54.870416 DCon22     name server 1: 10.130.98.158
+00:03:54.870420 DCon22     name server 2: 2409:40c1:4:f20d::31
+00:03:54.870583 DCon22   HostDnsMonitorProxy::GetSearchStrings:
+00:03:54.870588 DCon22     no search string entries
+00:03:54.902817 DCon15   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:03:54.978647 DCon13   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:03:54.980452 DCon13   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:03:55.260118 DCon17   Saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox" with version "1.19-linux"
+00:03:55.263383 DCon17   Finished saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox"
+00:03:55.279178 DCon11   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:03:55.283110 DCon11   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:03:57.777057 DCon14   Saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox" with version "1.19-linux"
+00:03:57.780805 DCon14   Finished saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox"
+00:03:57.797833 DCon14   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:03:57.800587 DCon14   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:04:00.451260 DCon15   Saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox" with version "1.19-linux"
+00:04:00.458767 DCon15   Finished saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox"
+00:04:00.476365 DCon14   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:04:00.479110 DCon14   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:05:08.980539 DCon10   Saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox" with version "1.19-linux"
+00:05:08.984934 DCon10   Finished saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox"
+00:05:09.003651 DCon10   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:05:09.005985 DCon10   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:05:12.478442 DCon15   Saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox" with version "1.19-linux"
+00:05:12.481756 DCon15   Finished saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox"
+00:05:12.493193 DCon14   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:05:12.495303 DCon14   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:05:21.231782 DCon26   Saving settings file "/home/raj/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:05:21.235949 DCon26   Finished saving settings file "/home/raj/.config/VirtualBox/VirtualBox.xml"
+00:05:25.320498 DCon19   Saving settings file "/home/raj/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:05:25.324227 DCon19   Finished saving settings file "/home/raj/.config/VirtualBox/VirtualBox.xml"
+00:05:32.909197 DCon19   Saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox" with version "1.19-linux"
+00:05:32.912814 DCon19   Finished saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox"
+00:05:32.926351 DCon19   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:05:32.928052 DCon19   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:05:33.974903 DCon19   Saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox" with version "1.19-linux"
+00:05:33.978740 DCon19   Finished saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox"
+00:05:33.999096 DCon27   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:05:34.003779 DCon27   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:05:42.752025 DCon19   Saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox" with version "1.19-linux"
+00:05:42.758826 DCon19   Finished saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox"
+00:05:42.773942 DCon14   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:05:42.775950 DCon14   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:05:48.605515 DCon14   Saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox" with version "1.19-linux"
+00:05:48.609250 DCon14   Finished saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox"
+00:05:48.621794 DCon17   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:05:48.624179 DCon17   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:05:49.776187 DCon17   Saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox" with version "1.19-linux"
+00:05:49.780096 DCon17   Finished saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox"
+00:05:49.798368 DCon19   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:05:49.800634 DCon19   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:06:00.276872 DCon17   Saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox" with version "1.19-linux"
+00:06:00.280588 DCon17   Finished saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox"
+00:06:00.295945 DCon35   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:06:00.297544 DCon35   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:06:04.308563 DCon34   Saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox" with version "1.19-linux"
+00:06:04.312210 DCon34   Finished saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox"
+00:06:04.328978 DCon31   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:06:04.332314 DCon34   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:10:20.258580 DCon30   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:10:20.260648 DCon30   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:10:20.284016 DCon30   Saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox" with version "1.19-linux"
+00:10:20.287175 DCon30   Finished saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox"
+00:10:20.289359 DCon30   ERROR [COM]: aRC=NS_ERROR_INVALID_ARG (0x80070057) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={Properties with TRANSIENT or TRANSRESET flag cannot be set or modified if VM is not running}, preserve=false aResultDetail=0
+00:10:20.336952 DCon17   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:10:20.338813 DCon17   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:10:21.868633 DCon34   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:10:21.871802 DCon34   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:10:28.836955 DCon34   Platform architecture set to 'x86'
+00:10:28.844503 DCon43   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:10:28.846969 DCon40   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:10:28.847200 DCon43   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:10:28.847346 DCon40   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:10:28.872183 DCon43   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp3s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:10:28.888846 DCon43   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp3s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:10:29.080586 DCon43   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:10:29.082318 DCon43   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:11:03.321534 DCon34   Platform architecture set to 'x86'
+00:11:03.357433 DCon43   Saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox" with version "1.19-linux"
+00:11:03.362667 DCon43   Finished saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox"
+00:11:03.416200 DCon43   Saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox" with version "1.19-linux"
+00:11:03.419238 DCon43   Finished saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox"
+00:11:03.492942 DCon45   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:11:03.496126 DCon45   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:11:06.474796 DCon19   Launched VM: 371079376 pid: 18800 (0x4970) frontend: GUI/Qt name: Nixos
+00:11:06.535669 DCon34   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:11:06.537912 DCon34   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:11:06.924396 DCon46   Platform architecture set to 'x86'
+00:11:06.942641 DCon34   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:11:06.945053 DCon34   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:11:23.801977 DCon49   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:11:23.847277 DCon49   Saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox" with version "1.19-linux"
+00:11:23.855522 DCon49   Finished saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox"
+00:11:23.871568 DCon51   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:11:23.873905 DCon51   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:11:23.887062 DCon34   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp3s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:11:23.963829 DCon34   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:11:23.999631 DCon34   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:11:24.002872 DCon34   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:11:24.050149 DCon43   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:11:24.281641 DCon51   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:11:24.284595 DCon51   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:11:24.287389 DCon51   HostDnsMonitorProxy::GetDomainName: no domain set
+00:11:24.287603 DCon51   HostDnsMonitorProxy::GetNameServers:
+00:11:24.287609 DCon51     name server 1: 10.130.98.158
+00:11:24.287613 DCon51     name server 2: 2409:40c1:4:f20d::31
+00:11:24.287816 DCon51   HostDnsMonitorProxy::GetSearchStrings:
+00:11:24.287821 DCon51     no search string entries
+00:11:24.393783 DCon50   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:11:24.412845 DCon45   Saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox" with version "1.19-linux"
+00:11:24.415807 DCon45   Finished saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox"
+00:11:24.475203 DCon50   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:11:24.476721 DCon50   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:11:29.554778 DCon34   Saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox" with version "1.19-linux"
+00:11:29.558668 DCon34   Finished saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox"
+00:11:29.574574 DCon19   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:11:29.576682 DCon19   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:11:32.274687 DCon51   Saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox" with version "1.19-linux"
+00:11:32.278183 DCon51   Finished saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox"
+00:11:32.290223 DCon44   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:11:32.292258 DCon44   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:11:37.970685 DCon44   Saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox" with version "1.19-linux"
+00:11:37.975167 DCon44   Finished saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox"
+00:11:37.988926 DCon45   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:11:37.990882 DCon45   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:13:06.726758 DCon53   Saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox" with version "1.19-linux"
+00:13:06.730437 DCon53   Finished saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox"
+00:13:06.746098 DCon53   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:13:06.747843 DCon53   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:13:23.421086 DCon59   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:13:23.453943 DCon60   Saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox" with version "1.19-linux"
+00:13:23.458064 DCon60   Finished saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox"
+00:13:23.472043 DCon19   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:13:23.473599 DCon19   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:13:23.781211 DCon60   Saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox" with version "1.19-linux"
+00:13:23.784855 DCon60   Finished saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox"
+00:13:23.803604 DCon56   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:13:23.806827 DCon56   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:13:29.467396 DCon62   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:13:29.468243 DCon62   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:13:29.470176 DCon19   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:13:32.465072 DCon62   Saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox" with version "1.19-linux"
+00:13:32.468964 DCon62   Finished saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox"
+00:13:32.492494 DCon62   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:13:32.500051 DCon56   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:13:32.536200 DCon56   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:13:32.539952 DCon56   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={The machine is not mutable or saved (state is Stopping)}, preserve=false aResultDetail=0
+00:13:32.557879 DCon56   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:13:32.559608 DCon56   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:13:32.568922 DCon56   Saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox" with version "1.19-linux"
+00:13:32.573069 DCon56   Finished saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox"
+00:13:32.598817 DCon61   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:13:32.623233 DCon61   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:13:32.625708 DCon61   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:13:32.679375 DCon64   ERROR [COM]: aRC=NS_ERROR_INVALID_ARG (0x80070057) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={Properties with TRANSIENT or TRANSRESET flag cannot be set or modified if VM is not running}, preserve=false aResultDetail=0
+00:13:33.648948 DCon64   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:13:33.650708 DCon64   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:13:38.914801 DCon19   Platform architecture set to 'x86'
+00:13:38.920232 DCon62   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:13:38.921334 DCon62   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:13:38.921468 DCon62   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:13:38.921584 DCon62   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:13:38.945994 DCon62   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp3s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:13:38.962847 DCon51   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp3s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:13:39.190293 DCon64   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:13:39.191800 DCon64   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:13:53.776108 DCon19   Launched VM: 1677727360 pid: 19416 (0x4bd8) frontend: GUI/Qt name: Nixos
+00:13:53.844131 DCon65   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:13:53.846127 DCon65   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:13:54.332104 DCon65   Platform architecture set to 'x86'
+00:13:54.348238 DCon67   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:13:54.350267 DCon67   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:13:55.265235 DCon66   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:13:55.317895 DCon66   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp3s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:13:55.361799 DCon68   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:13:55.373167 DCon69   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:13:55.375200 DCon69   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:13:55.418875 DCon19   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:13:55.601266 DCon19   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:13:55.604249 DCon19   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:13:55.606831 DCon19   HostDnsMonitorProxy::GetDomainName: no domain set
+00:13:55.607103 DCon19   HostDnsMonitorProxy::GetNameServers:
+00:13:55.607108 DCon19     name server 1: 10.130.98.158
+00:13:55.607112 DCon19     name server 2: 2409:40c1:4:f20d::31
+00:13:55.607294 DCon19   HostDnsMonitorProxy::GetSearchStrings:
+00:13:55.607299 DCon19     no search string entries
+00:13:55.680802 DCon70   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:13:55.752723 DCon69   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:13:55.755096 DCon69   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:14:02.273562 DCon67   Saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox" with version "1.19-linux"
+00:14:02.277400 DCon67   Finished saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox"
+00:14:02.291762 DCon67   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:14:02.293445 DCon67   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:14:04.474204 DCon67   Saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox" with version "1.19-linux"
+00:14:04.477532 DCon67   Finished saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox"
+00:14:04.493875 DCon66   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:14:04.496005 DCon66   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:14:08.155241 DCon65   Saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox" with version "1.19-linux"
+00:14:08.158857 DCon65   Finished saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox"
+00:14:08.176675 DCon19   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:14:08.180280 DCon19   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:19:20.676256 DCon84   Saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox" with version "1.19-linux"
+00:19:20.679449 DCon84   Finished saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox"
+00:19:20.694114 DCon83   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:19:20.695995 DCon83   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:20:04.199215 DCon79   Saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox" with version "1.19-linux"
+00:20:04.202993 DCon79   Finished saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox"
+00:20:04.219089 DCon19   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:20:04.220983 DCon19   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:20:04.678881 DCon89   Saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox" with version "1.19-linux"
+00:20:04.681998 DCon89   Finished saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox"
+00:20:04.701827 DCon19   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:20:04.704843 DCon19   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:20:05.281850 DCon19   Saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox" with version "1.19-linux"
+00:20:05.285460 DCon19   Finished saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox"
+00:20:05.299563 DCon79   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:20:05.301725 DCon79   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:20:07.579800 DCon79   Saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox" with version "1.19-linux"
+00:20:07.583647 DCon79   Finished saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox"
+00:20:07.603739 DCon19   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:20:07.606759 DCon19   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:31:52.488380 DCon113  Saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox" with version "1.19-linux"
+00:31:52.491986 DCon113  Finished saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox"
+00:31:52.508654 DCon116  ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:31:52.512499 DCon116  Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:31:52.995919 DCon121  Saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox" with version "1.19-linux"
+00:31:52.998893 DCon121  Finished saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox"
+00:31:53.013099 DCon116  ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:31:53.015214 DCon116  Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:31:53.375316 DCon119  Saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox" with version "1.19-linux"
+00:31:53.378926 DCon119  Finished saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox"
+00:31:53.392703 DCon113  ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:31:53.394721 DCon113  Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:31:55.977387 DCon121  Saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox" with version "1.19-linux"
+00:31:55.981213 DCon121  Finished saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox"
+00:31:56.000498 DCon118  ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:31:56.003778 DCon118  Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:41:56.728301 MainPower Host suspending: Paused 1 VMs
+00:41:56.747750 DCon144  ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:41:56.759786 DCon148  ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:41:56.760859 DCon148  Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:41:57.365238 dns-monitor HostDnsMonitor: updating information
+00:41:57.365344 dns-monitor HostDnsMonitor: old information
+00:41:57.365350 dns-monitor   server 1: 10.130.98.158
+00:41:57.365359 dns-monitor   server 2: 2409:40c1:4:f20d::31
+00:41:57.365365 dns-monitor   no domain set
+00:41:57.365370 dns-monitor   no search string entries
+00:41:57.365375 dns-monitor HostDnsMonitor: new information
+00:41:57.365380 dns-monitor   no server entries
+00:41:57.365385 dns-monitor   no domain set
+00:41:57.365389 dns-monitor   no search string entries
+00:41:57.367332 DCon148  HostDnsMonitorProxy::GetDomainName: no domain set
+00:41:57.367653 DCon148  HostDnsMonitorProxy::GetNameServers:
+00:41:57.367671 DCon148    no name server entries
+00:41:57.368126 DCon148  HostDnsMonitorProxy::GetSearchStrings:
+00:41:57.368157 DCon148    no search string entries
+00:41:57.369103 dns-monitor HostDnsMonitor: updating information
+00:41:57.369123 dns-monitor HostDnsMonitor: unchanged
+00:41:59.575272 MainPower Host resumed: Resumed 1 VMs
+00:41:59.575394 MainPower Host resumed: Resumed 0 VMs
+00:41:59.596039 DCon144  ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:41:59.618614 DCon144  ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:41:59.620725 DCon144  Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:42:27.956590 MainPower Host suspending: Paused 1 VMs
+00:42:27.980843 DCon152  ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:42:27.984750 DCon144  ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:42:27.986573 DCon144  Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:42:34.937401 MainPower Host resumed: Resumed 1 VMs
+00:42:34.937578 MainPower Host resumed: Resumed 0 VMs
+00:42:34.982229 DCon151  ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:42:35.030039 DCon144  ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:42:35.032255 DCon144  Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:43:13.170797 DCon150  ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:43:13.193070 DCon150  ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:43:13.194785 DCon150  Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:43:13.198479 DCon150  Saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox" with version "1.19-linux"
+00:43:13.201202 DCon150  Finished saving settings file "/home/raj/.VirtualBox/Machines/Nixos/Nixos.vbox"
+00:43:13.219892 DCon154  ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:43:13.222162 DCon150  ERROR [COM]: aRC=NS_ERROR_INVALID_ARG (0x80070057) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={Properties with TRANSIENT or TRANSRESET flag cannot be set or modified if VM is not running}, preserve=false aResultDetail=0
+00:43:13.256343 DCon154  ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:43:13.258522 DCon154  Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:43:14.297369 DCon154  ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:43:14.299352 DCon154  Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:43:15.137392 DCon154  Saving settings file "/home/raj/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:43:15.145782 DCon154  Finished saving settings file "/home/raj/.config/VirtualBox/VirtualBox.xml"
+00:43:20.694207 main     VirtualBox: object deletion starts
+00:43:20.694338 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Medium '/home/raj/.VirtualBox/Machines/Nixos/Nixos.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:43:20.695703 main     HostDnsMonitor: shutting down ...
+00:43:20.696154 main     HostDnsMonitor: shut down
+00:43:20.704682 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={2ce10519-3c09-45d8-a12d-e887786146b7} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:43:20.722741 main     VirtualBox: object deleted

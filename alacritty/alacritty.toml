@@ -1,0 +1,61 @@
+[general]
+import = [
+    "~/.config/alacritty/themes/themes/dark_plus.toml"
+]
+
+working_directory = "/home/raj/Documents/onedrive/"
+live_config_reload = true
+ipc_socket = true
+
+[colors.primary]
+background = "#000000"
+foreground = "#c5c5c5"
+
+[colors.normal]
+black = "#000000"
+red = "#cc0403"
+green = "#19cb00"
+yellow = "#cecb00"
+blue = "#0d73cc"
+magenta = "#cb1ed1"
+cyan = "#0dcdcd"
+white = "#e5e5e5"
+
+[colors.bright]
+black = "#686868"
+red = "#f01e16"
+green = "#23fd13"
+yellow = "#fdfa19"
+blue = "#1a8fff"
+magenta = "#fd28ff"
+cyan = "#14ffff"
+white = "#ffffff"
+
+[window]
+opacity = 1.0
+
+[font]
+size = 14.0
+
+[font.bold]
+family = "monospace"
+style = "Bold"
+
+[font.bold_italic]
+family = "monospace"
+style = "Bold Italic"
+
+[font.italic]
+family = "monospace"
+style = "Italic"
+
+[font.normal]
+family = "monospace"
+style = "Regular"
+
+[selection]
+save_to_clipboard = true
+
+[cursor]
+style = {shape = "Beam", blinking = "on"}
+unfocused_hollow = true

@@ -1,0 +1,4 @@
+{"timestamp":4968108,"category":"web_notification_permission","name":"prompt_shown","extra":{"glean_timestamp":"1790922311358","trigger":"script","site_category":"other"}}
+{"timestamp":4970621,"category":"web_notification_permission","name":"prompt_interaction","extra":{"glean_timestamp":"1790922313871","is_persistent":"true","action":"allow","site_category":"other"}}
+{"timestamp":8317554,"category":"downloads","name":"added_file_extension","extra":{"glean_timestamp":"1790925660804","value":"csv"}}
+{"timestamp":8355337,"category":"doh","name":"state_shutdown","extra":{"value":"null","glean_timestamp":"1790925698587"}}

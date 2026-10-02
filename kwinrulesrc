@@ -1,0 +1,58 @@
+[0dbfe3a2-a295-4431-865e-99767d664df7]
+Description=Application settings for libreoffice-startcenter
+desktops=00ad0f9f-6347-43ff-a5ff-0285a2db0697
+desktopsrule=3
+wmclass=soffice.bin libreoffice-startcenter
+wmclasscomplete=true
+wmclassmatch=1
+
+[34858216-9837-47ad-8734-92c406bcce4e]
+Description=Application settings for libreoffice-writer
+desktops=00ad0f9f-6347-43ff-a5ff-0285a2db0697
+desktopsrule=2
+wmclass=soffice.bin libreoffice-writer
+wmclasscomplete=true
+wmclassmatch=1
+
+[6ca2a6ff-79c2-4837-83ed-d7806f9922d9]
+Description=Application settings for libreoffice-calc
+desktops=00ad0f9f-6347-43ff-a5ff-0285a2db0697
+desktopsrule=3
+wmclass=soffice.bin libreoffice-calc
+wmclasscomplete=true
+wmclassmatch=1
+
+[7d649615-e864-4c9e-a065-0432e23c44a5]
+Description=Application settings for firefox-bin
+desktops=4e059630-0d31-45b5-a8f9-53b6c35aac65
+desktopsrule=3
+wmclass=firefox-bin
+wmclassmatch=1
+
+[General]
+count=7
+rules=fdadbc09-e92e-4f2a-b31d-bdb66a5796c3,34858216-9837-47ad-8734-92c406bcce4e,0dbfe3a2-a295-4431-865e-99767d664df7,6ca2a6ff-79c2-4837-83ed-d7806f9922d9,f8cb1660-54e7-49c6-9133-dfe085ce981c,f2667615-78be-4f97-81f0-46a0d6705bf9,7d649615-e864-4c9e-a065-0432e23c44a5
+
+[f2667615-78be-4f97-81f0-46a0d6705bf9]
+Description=Application settings for org.kde.konsole
+desktops=f9d4b445-19bb-411a-bed9-86acba55fb23
+desktopsrule=3
+wmclass=konsole org.kde.konsole
+wmclasscomplete=true
+wmclassmatch=1
+
+[f8cb1660-54e7-49c6-9133-dfe085ce981c]
+Description=Application settings for thunderbird-esr
+desktops=49d75078-eb6d-4b4b-96fc-d24df7bbe2fd
+desktopsrule=3
+wmclass=thunderbird thunderbird-esr
+wmclasscomplete=true
+wmclassmatch=1
+
+[fdadbc09-e92e-4f2a-b31d-bdb66a5796c3]
+Description=Application settings for org.kde.dolphin
+desktops=49d75078-eb6d-4b4b-96fc-d24df7bbe2fd
+desktopsrule=3
+wmclass=dolphin org.kde.dolphin
+wmclasscomplete=true
+wmclassmatch=1

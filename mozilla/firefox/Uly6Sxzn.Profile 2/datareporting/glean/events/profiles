@@ -1,0 +1,8 @@
+{"timestamp":123878,"category":"profiles.new","name":"displayed","extra":{"glean_timestamp":"1783766099129"}}
+{"timestamp":123905,"category":"profiles.default","name":"updated","extra":{"glean_timestamp":"1783766099156"}}
+{"timestamp":124680,"category":"profiles.new","name":"theme","extra":{"value":"{7063abff-a690-4b87-a548-fc32d3ce5708}","glean_timestamp":"1783766099931"}}
+{"timestamp":134606,"category":"profiles.new","name":"name","extra":{"glean_timestamp":"1783766109857"}}
+{"timestamp":136845,"category":"profiles.new","name":"theme","extra":{"glean_timestamp":"1783766112095","value":"{7a301b7b-c3e2-40bf-a06b-6d517bbf138b}"}}
+{"timestamp":139973,"category":"profiles.new","name":"closed","extra":{"glean_timestamp":"1783766115224","value":"done_editing"}}
+{"timestamp":179263,"category":"profiles.default","name":"updated","extra":{"glean_timestamp":"1783766154513"}}
+{"timestamp":208380,"category":"profiles.default","name":"updated","extra":{"glean_timestamp":"1783766183631"}}

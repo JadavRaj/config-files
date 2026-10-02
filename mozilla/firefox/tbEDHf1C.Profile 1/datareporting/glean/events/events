@@ -1,0 +1,2 @@
+{"timestamp":32163312,"category":"serp","name":"abandonment","extra":{"glean_timestamp":"1785846834948","impression_id":"25c7a886-4a91-483b-b388-cdb9e54b5af3","reason":"tab_close"}}
+{"timestamp":32187529,"category":"doh","name":"state_shutdown","extra":{"glean_timestamp":"1785846859165","value":"null"}}

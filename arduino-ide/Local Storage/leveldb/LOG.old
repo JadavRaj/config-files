@@ -1,0 +1,6 @@
+2026/08/21-18:02:40.434 168ef Reusing MANIFEST /home/raj/.config/arduino-ide/Local Storage/leveldb/MANIFEST-000001
+2026/08/21-18:02:40.566 168ef Recovering log #17
+2026/08/21-18:02:40.569 168ef Reusing old log /home/raj/.config/arduino-ide/Local Storage/leveldb/000017.log 
+2026/08/21-18:29:39.671 168f0 Level-0 table #20: started
+2026/08/21-18:29:39.675 168f0 Level-0 table #20: 18476 bytes OK
+2026/08/21-18:29:39.677 168f0 Delete type=0 #17

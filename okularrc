@@ -1,0 +1,34 @@
+[Desktop Entry]
+FullScreen=false
+
+[General]
+LockSidebar=true
+ShowSidebar=false
+
+[Notification Messages]
+presentationInfo=false
+
+[Print Preview]
+1280x720 screen: Window-Maximized=true
+
+[Recent Files]
+File1[$e]=$HOME/Documents/onedrive/AIIE/AU_FEST/odd_2026/timetable/2_timetable_wef_01082026/SEM I - ICIEPM.pdf
+File10[$e]=$HOME/Documents/onedrive/AIIE/AU_FEST/Odd_2025/semester_1/computer_programming/Lecture_notes/Unit_4/Unit_4.pdf
+File2[$e]=$HOME/Documents/onedrive/AIIE/AU_FEST/odd_2026/timetable/2_timetable_wef_01082026/SEM V - ICIEPM.pdf
+File3[$e]=$HOME/Documents/onedrive/AIIE/General/ERP/odd_2026/COE - Course Code Allocation.pdf
+File4[$e]=$HOME/Documents/onedrive/AIIE/General/ERP/odd_2026/Course Code Allocation – ADC-01 – Regarding.pdf
+File5[$e]=$HOME/Documents/onedrive/AIIE/AU_FEST/odd_2026/2 to 4 year Calendar FEST & FOS.pdf
+File6[$e]=$HOME/Documents/onedrive/AIIE/AU_FEST/odd_2026/semester_3/eesps/lecture_notes/unit-2/unit-2.pdf
+File7[$e]=$HOME/Documents/onedrive/AIIE/AU_FEST/odd_2026/semester_3/eesps/assignments/assignment-2/assignment-2.pdf
+File8[$e]=$HOME/Documents/onedrive/AIIE/AU_FEST/odd_2026/timetable/personal_timetable.pdf
+File9[$e]=$HOME/Documents/onedrive/AIIE/AU_FEST/odd_2026/semester_1/computer_programming/lecture_notes/unit-2/unit-2.pdf
+Name1[$e]=SEM I - ICIEPM.pdf
+Name10[$e]=Unit_4.pdf
+Name2[$e]=SEM V - ICIEPM.pdf
+Name3[$e]=COE - Course Code Allocation.pdf
+Name4[$e]=Course Code Allocation – ADC-01 – Regarding.pdf
+Name5[$e]=2 to 4 year Calendar FEST & FOS.pdf
+Name6[$e]=unit-2.pdf
+Name7[$e]=assignment-2.pdf
+Name8[$e]=personal_timetable.pdf
+Name9[$e]=unit-2.pdf

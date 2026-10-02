@@ -1,0 +1,59 @@
+00:00:00.372706 VirtualBox GUI VM Selector Window 7.2.8_Gentoo r173730 linux.amd64 (Aug 15 2026 21:49:58) release log
+00:00:00.372709 Log opened 2026-09-05T16:55:28.189267000Z
+00:00:00.372709 Build Type: release
+00:00:00.372713 OS Product: Linux
+00:00:00.372714 OS Release: 6.18.43-gentoo-dist-bin
+00:00:00.372715 OS Version: #1 SMP PREEMPT_DYNAMIC Thu Aug  6 19:07:48 -00 2026
+00:00:00.372773 DMI Product Name: 20UES3Q407
+00:00:00.372790 DMI Product Version: ThinkPad T14 Gen 1
+00:00:00.372801 Firmware type: UEFI
+00:00:00.373165 Secure Boot: Disabled
+00:00:00.373227 Host RAM: 15192MB (14.8GB) total, 11142MB (10.8GB) available
+00:00:00.373230 Executable: /usr/lib64/virtualbox/VirtualBox
+00:00:00.373231 Process ID: 16567
+00:00:00.373231 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.373277 Qt version: 6.11.1
+00:00:00.374170 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.379165 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.379206 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:01.135041 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x0 x 628x674
+00:03:48.736732 GUI: UIMediumEnumerator: Medium with key={{5465b745-fc27-44e9-932b-76a17d0cb7d7}} created
+00:03:48.917707 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:03:55.417031 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:03:57.936233 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:00.614539 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:05:09.143449 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:05:12.633754 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:05:33.066591 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:05:34.133630 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:05:42.914087 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:05:48.762189 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:05:49.935435 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:06:00.436627 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:06:04.471162 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:11:03.587716 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:11:03.616052 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:11:24.010398 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:11:24.595561 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:11:29.714042 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:11:32.431161 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:11:38.128370 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:13:06.884774 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:13:23.610906 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:13:23.941992 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:13:32.658027 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:14:02.432248 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:14:04.632649 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:14:08.313085 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:19:20.834621 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:20:04.358587 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:20:04.838875 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:20:05.439684 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:20:07.741052 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:31:52.645630 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:31:53.152725 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:31:53.532941 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:31:56.137962 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:43:15.279322 GUI: UICommon: Handling aboutToQuit request..
+00:43:15.799454 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:43:15.858328 GUI: UICommon: aboutToQuit request handled!

@@ -1,0 +1,30 @@
+[General]
+LastUsedVersion=210800
+
+[MainWindow]
+MenuBar=Disabled
+
+[Recent Files]
+File1[$e]=/mnt/usb/.Pictures/N900/20100905_023.jpg
+File10[$e]=/mnt/usb/Arch_230623/Documents/NIT/843.JPG
+File2[$e]=/mnt/usb/.Pictures/N900/20100905_024.jpg
+File3[$e]=/mnt/usb/.Pictures/N900/20100905_025.jpg
+File4[$e]=/mnt/usb/.Pictures/N900/20100905_026.jpg
+File5[$e]=/mnt/usb/.Pictures/N900/20100905_027.jpg
+File6[$e]=/mnt/usb/.Pictures/N900/20100905_028.jpg
+File7[$e]=/mnt/usb/.Pictures/N900/20100614_004.jpg
+File8[$e]=/mnt/usb/.Pictures/New Folder/STA50149.JPG
+File9[$e]=/mnt/usb/.Pictures/New Folder/STA50152.JPG
+Name1[$e]=20100905_023.jpg
+Name10[$e]=843.JPG
+Name2[$e]=20100905_024.jpg
+Name3[$e]=20100905_025.jpg
+Name4[$e]=20100905_026.jpg
+Name5[$e]=20100905_027.jpg
+Name6[$e]=20100905_028.jpg
+Name7[$e]=20100614_004.jpg
+Name8[$e]=STA50149.JPG
+Name9[$e]=STA50152.JPG
+
+[SideBar]
+InformationSplitterSizes=211,244

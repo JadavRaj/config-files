@@ -1,0 +1,14 @@
+[Added Associations]
+application/pdf=okular.desktop;
+image/jpeg=feh-2.desktop;
+image/png=feh-3.desktop;
+text/html=waterfox-2.desktop;
+
+[Default Applications]
+application/pdf=okular.desktop;
+image/jpeg=feh.desktop
+image/jpg=feh.desktop
+image/png=feh.desktop
+text/html=waterfox-2.desktop;
+x-scheme-handler/http=firefox.desktop
+x-scheme-handler/https=firefox.desktop

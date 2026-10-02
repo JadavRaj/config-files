@@ -1,0 +1,11 @@
+[Libinput][1267][10395][ELAN Touchscreen]
+Enabled=true
+
+[Libinput][2][10][TPPS/2 Elan TrackPoint]
+LeftHanded=false
+
+[Libinput][2][7][SynPS/2 Synaptics TouchPad]
+LeftHanded=true
+
+[Mouse]
+X11LibInputXAccelProfileFlat=true
